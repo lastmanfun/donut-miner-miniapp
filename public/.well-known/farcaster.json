@@ -1,16 +1,16 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjI3MjEwOSwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDQ5REI1QTFjOWZlRjBFMkY5OTVCNDZiMEI3MWJFQmJEOTEyQkYwZTMifQ",
-    "payload": "eyJkb21haW4iOiJnbGF6ZWNvcnAudmVyY2VsLmFwcCJ9",
-    "signature": "Xun297i8tZiQWxuVqo5bKPxSOs1CFDa1lFzDY4dJgOYJ7l16eBnWCJSxwqrgKnR0t74OmCHW7eg5HtIHMz+NZBs="
+    "header": "eyJmaWQiOjE0NDYxMzQsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHg2RTZlQWFjY0U3RWQxZEZFN0U4N2Y0ODUyRDBhNWU3NDExODU1RjQyIn0",
+    "payload": "eyJkb21haW4iOiJ6ZXBwb2xlLm5ldGxpZnkuYXBwIn0",
+    "signature": "jH7BkliB8QlyKTKvas3E2uIMpQZC1usN/mS380CqCqIByHlLIXexc8EE1EjRGwXG3LjQ6zp6qp/DgLbpT8sWRBs="
   },
   "miniapp": {
     "version": "1",
-    "name": "GlazeCorp",
-    "tagline": "Together we glaze the world",
-    "description": "Command GlazeCorp's donut mine, compete for control, and keep the rewards flowing on Base.",
+    "name": "Zeppole",
+    "tagline": "Together we zeppole the world",
+    "description": "Command Zeppole's donut mine, compete for control, and keep the rewards flowing on Base.",
     "iconUrl": "https://glazecorp.vercel.app/media/icon.png",
-    "homeUrl": "https://glazecorp.vercel.app/",
+    "homeUrl": "https://zeppole.netlify.app/",
     "splashImageUrl": "https://glazecorp.vercel.app/media/splash.png",
     "splashBackgroundColor": "#FEE7EC",
     "heroImageUrl": "https://glazecorp.vercel.app/media/hero.png",
