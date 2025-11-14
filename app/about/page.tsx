@@ -183,6 +183,7 @@ export default function AboutPage() {
                 <li>The protocol will launch with two official Donut Shops:</li>
                 <li className="pl-6 list-none">- GlazeCorp by @heesh</li>
                 <li className="pl-6 list-none">- Pinky Glazer by @bigbroc</li>
+                <li className="pl-6 list-none">- Zeppole by @lastmanbase forked from @heesh</li>
               </ul>
             </section>
           </div>
