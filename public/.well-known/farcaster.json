@@ -27,5 +27,8 @@
       "base",
       "rewards"
     ]
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x36EAA56843Ada41a6c80f2d38eF550F6A20BeCBB"
   }
 }
